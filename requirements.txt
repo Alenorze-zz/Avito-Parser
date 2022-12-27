@@ -8,6 +8,6 @@ pip==9.0.1
 pytesseract==0.2.0
 requests==2.18.4
 selenium==3.9.0
-setuptools==38.5.1
+setuptools==65.5.1
 urllib3==1.22
 wheel==0.30.0
